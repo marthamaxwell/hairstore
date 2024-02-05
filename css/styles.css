@@ -494,15 +494,15 @@ input {
   }
 
   .centered-h2 {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
   }
 
   .product p {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   .product h3 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .aboutus-info {
@@ -515,7 +515,7 @@ input {
   }
 
   .info p {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .reviews {
@@ -525,11 +525,11 @@ input {
   }
 
   .rv {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .review-content h3 {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .contact-us {
@@ -542,11 +542,11 @@ input {
   }
 
   .form label {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .form p {
-    font-size: 15px;
+    font-size: 14px;
   }
 
   i {
