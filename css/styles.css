@@ -230,7 +230,7 @@ ul a:hover {
   font-size: 13px;
 }
 
-.review-content h3 {
+.review-content h6 {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
@@ -528,7 +528,7 @@ input {
     font-size: 13px;
   }
 
-  .review-content h3 {
+  .review-content h6 {
     font-size: 11px;
   }
 
