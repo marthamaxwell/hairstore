@@ -101,6 +101,7 @@ ul a:hover {
   font-family: "Poppins", sans-serif;
   /* padding: 5px; */
   color: #201e20;
+  text-align: justify;
 }
 
 .btn {
@@ -438,7 +439,6 @@ input {
 
   .navbar {
     flex-direction: column;
-    gap: 0.5rem;
   }
 
   ul a {
@@ -447,16 +447,17 @@ input {
   }
 
   .navbar h1 {
-    margin-top: 10px;
+    margin-top: 8px;
     letter-spacing: 0.1cm;
   }
 
   .header-content {
     flex-direction: column;
+    flex: 70%;
   }
 
   .header-info {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
   }
 
   .header-img {
@@ -466,10 +467,6 @@ input {
     margin-top: 3rem;
     margin-bottom: 3rem;
     width: 70%;
-  }
-
-  .header-info {
-    flex: 70%;
   }
 
   .line {
@@ -486,7 +483,7 @@ input {
 
   .header-info h3 {
     font-size: 12px;
-    letter-spacing: 0;
+    letter-spacing: 0.1cm;
   }
 
   #products {
